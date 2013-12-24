@@ -9,6 +9,7 @@ For Web
 * javax.inject
 * ops4j-base-lang
 * org.apache.log4j
+* org.apache.servicemix.bundles.cglib-2.2.2
 * org.ops4j.pax.wicket.service
 
 For Database
