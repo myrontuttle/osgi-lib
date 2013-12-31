@@ -9,6 +9,7 @@ Server
 * features:install webconsole (or features:install http if you just want command prompt)
 * features:install transaction
 * features:install jpa
+* features:install jndi
 
 For Web
 ---------
