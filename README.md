@@ -3,6 +3,13 @@ osgi-lib
 
 OSGi-fied Library
 
+Server
+---------
+* Install Karaf 2.3.2
+* features:install webconsole (or features:install http if you just want command prompt)
+* features:install transaction
+* features:install jpa
+
 For Web
 ---------
 * wicket-*
