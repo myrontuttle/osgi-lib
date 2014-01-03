@@ -26,8 +26,10 @@ For Database
 * org.apache.servicemix.bundles.serp
 * geronimo-jpa_2.0_spec (not sure if this is only needed for Dev)
 * openjpa-2.2.2
-* db-command -> Adds console commands for DB interaction
-* datasource-h2 -> H2 datasource (contains directions for drivers)
+* db-command (Adds console commands for DB interaction)
+* org.osgi.enterprise-4.2 (org.osgi.service.jdbc for H2-1.7.4)
+* h2-1.7.4 (H2 database driver)
+* datasource-h2 (H2 datasource)
 
 For Application
 ---------------
